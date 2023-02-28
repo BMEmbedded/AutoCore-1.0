@@ -16,5 +16,5 @@ The color palette for Carrova Automotive should be modern and bold, while also c
 ## Logo Elements: 
 The logo should include the company name "Carrova Automotive." Other possible elements to consider including in the logo design are abstract representations of a car, computer components, or communication technology. However, it's important to keep the design simple and easy to recognize.
 
-Branding Usage: 
-## The logo should be designed to work well on a range of applications, including websites, social media profiles, business cards, letterheads, and other marketing materials. The designer should provide the logo in various file formats (such as JPEG, PNG, and SVG) and sizes to ensure that it can be used effectively across different platforms.
+## Branding Usage: 
+The logo should be designed to work well on a range of applications, including websites, social media profiles, business cards, letterheads, and other marketing materials. The designer should provide the logo in various file formats (such as JPEG, PNG, and SVG) and sizes to ensure that it can be used effectively across different platforms.
