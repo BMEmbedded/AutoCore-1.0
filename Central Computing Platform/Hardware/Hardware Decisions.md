@@ -31,9 +31,11 @@ The STM32H750VBT6 also supports advanced security features, including hardware e
 
 Overall, the STM32H750VBT6 is a highly capable microcontroller that offers a powerful combination of processing power, memory, and built-in peripherals, making it an excellent choice for a wide range of applications, including automotive systems.
 
-# WiFi module: This module is necessary for wireless communication and connectivity. The ESP32 module is a popular choice for its low cost, high performance, and built-in WiFi capabilities.
+# WiFi module: 
+This module is necessary for wireless communication and connectivity. The ESP32 module is a popular choice for its low cost, high performance, and built-in WiFi capabilities.
 
-# Memory: The system will need both program memory and data memory to store and execute the software. Flash memory and SRAM are commonly used for this purpose, since our microcontroller come with an external memory interface we can add an external flash memory
+# Memory: 
+The system will need both program memory and data memory to store and execute the software. Flash memory and SRAM are commonly used for this purpose, since our microcontroller come with an external memory interface we can add an external flash memory
 to increase performance.
 # Power management: 
 The system will need to manage power consumption and supply, so power management ICs like voltage regulators, power switches, and battery chargers will be necessary.
