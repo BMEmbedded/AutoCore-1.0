@@ -16,7 +16,8 @@ Perform rigorous testing on the prototype to ensure it meets the project require
 ## Integration: 
 Integrate the AutoCore system with the vehicle and perform tests to ensure proper functioning.
 
-## Refinement: Continuously refine the system through feedback from testing and user experience.
+## Refinement: 
+Continuously refine the system through feedback from testing and user experience.
 
 ## Documentation: 
 Document the project thoroughly, including the design, code, and testing procedures, to ensure ease of maintenance and future development.
