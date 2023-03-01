@@ -30,3 +30,22 @@ In addition to its processing power and memory, the STM32H750VBT6 also comes wit
 The STM32H750VBT6 also supports advanced security features, including hardware encryption and decryption, secure boot, and secure firmware update, making it suitable for applications that require high levels of security.
 
 Overall, the STM32H750VBT6 is a highly capable microcontroller that offers a powerful combination of processing power, memory, and built-in peripherals, making it an excellent choice for a wide range of applications, including automotive systems.
+
+# WiFi module: This module is necessary for wireless communication and connectivity. The ESP32 module is a popular choice for its low cost, high performance, and built-in WiFi capabilities.
+
+# Memory: The system will need both program memory and data memory to store and execute the software. Flash memory and SRAM are commonly used for this purpose, since our microcontroller come with an external memory interface we can add an external flash memory
+to increase performance.
+# Power management: 
+The system will need to manage power consumption and supply, so power management ICs like voltage regulators, power switches, and battery chargers will be necessary.
+
+# Communication interfaces: 
+The system will need to communicate with various sensors, actuators, and other systems in the vehicle. Common communication protocols include CAN, LIN, SPI, I2C, and UART.
+
+# User interface: 
+The system will need to provide a user interface for the driver, such as a dashboard display. This could be a touchscreen LCD display, with a suitable graphics controller and touch sensor.
+
+# Security components: 
+As the system will be responsible for critical vehicle functions, it will need to have secure boot and firmware update capabilities, as well as encryption and other security features to prevent unauthorized access and tampering.
+
+# Miscellaneous components: 
+Other components that may be needed include voltage level shifters, connectors, resistors, capacitors, and other passive and active components depending on the specific design requirements.
