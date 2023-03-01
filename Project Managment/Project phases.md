@@ -1,3 +1,5 @@
+## Pre phase:
+Make the basic team, improve the team members skills, find all of the needed resources "Books, Playlist, Courses, Source Codes".
 ## Define the requirements: 
 Identify what features and functionalities you want to include in the AutoCore system. Consider the target vehicle, engine, and transmission types.
 
