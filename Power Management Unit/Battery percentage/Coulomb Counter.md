@@ -1,0 +1,3 @@
+One effective method to find the battery percentage while taking all factors into consideration is to use a coulomb counter. A coulomb counter is an electronic device that measures the flow of electric charge in and out of a battery over time. It can accurately determine the amount of energy that has been charged or discharged from the battery, taking into account factors such as temperature, current, and voltage.
+
+To implement this method using an Arduino, you can use a coulomb counter IC such as the Texas Instruments BQ34Z100-G1. This IC can communicate with an Arduino using I2C protocol and provide accurate battery state-of-charge (SOC) information.
