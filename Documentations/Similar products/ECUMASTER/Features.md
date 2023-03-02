@@ -8,7 +8,7 @@ Common applications for the ECUMaster EMU CLASSIC are modified sports car and ra
 
 ● 6 Fuel injector outputs (5A) (12 injectors in batch fire)
 
-●6 AUX outputs (5A)
+● 6 AUX outputs (5A)
 
 ● 6 Ignition outputs -Passive or active coils, software selectable (7A) (supports up to 12 cylinders)
 
