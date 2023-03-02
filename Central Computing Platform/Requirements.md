@@ -1,4 +1,4 @@
-#In General:
+# In General:
 ## High processing power: 
 The central computing platform should be able to handle multiple tasks simultaneously and perform them efficiently. This requires a powerful processor with multiple cores and high clock speed.
 
